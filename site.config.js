@@ -1,14 +1,14 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '78fc5a4b88d74b0e824e29407e9f1ec1',
+  rootNotionPageId: 'a0a4d6c018904d7e8d8680dbc3d2333a',
 
   // if you want to restrict pages to a single notion workspace (optional)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'STICKY BLOG',
+  domain: 'sticky.top',
+  author: 'STICKY',
 
   // open graph metadata (optional)
   description: 'Example site description',
